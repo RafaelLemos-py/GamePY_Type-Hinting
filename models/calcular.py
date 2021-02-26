@@ -88,7 +88,7 @@ class Calcular:
         return certo
 
     def mostrar_operacao(self: object) -> None:
-        print(f'O resultado é {self.valor1} {self._op_simbolo} {self.valor2} = ?')
+        print(f'QUal a resposta: {self.valor1} {self._op_simbolo} {self.valor2} = ?')
 
 
 
